@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="Inc">Add One Point</string>
+    <string name="Dec">Minus One Point</string>
+</resources>
